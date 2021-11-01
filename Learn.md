@@ -1,4 +1,4 @@
-## Hello world
+# Hello world
 
 Write this code and run the test cases. Let's get a quick grasp of the programming language and syntax.
 
