@@ -4,5 +4,5 @@ pragma solidity ^0.8.3;
 
 contract HelloWorld {
     // write logic to set greet varible to "Hello World" and make it public
-    string public greet = "Hello World!";
+    
 }
