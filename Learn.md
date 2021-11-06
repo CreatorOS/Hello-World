@@ -16,6 +16,7 @@ contract HelloWorld {
 - Like a class, we use `contract` in solidity
 - Solidity is a typed language, `string` is a primitive data type.
 
-```
-run testcases 01.sh
-```
+When you declare a variable as public in solidity, a getter method with the same name as variable is automatically generated for you.
+
+The test script uses that test if the variable is set to `Hello World!` or not.
+Click on `Run` to see the result.
