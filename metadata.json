@@ -2,11 +2,21 @@
   "version": "1.0.0",
   "defaultFile": "contracts/HelloWorld.sol",
   "environment": "solidity",
-  "setupCommands": ["npm i", "npx hardhat compile"],
+  "setupCommands": [
+    "npx hardhat compile"
+  ],
   "compileCommand": "npx hardhat compile",
   "tests": [
-    { "itShould": "Compile", "command": "sh learn_tests/02.sh" },
-    { "itShould": "Call check-greet", "command": "sh learn_tests/03.sh" }
+    {
+      "itShould": "Compile",
+      "command": "sh learn_tests/02.sh"
+    },
+    {
+      "itShould": "Call check-greet",
+      "command": "sh learn_tests/03.sh"
+    }
   ],
-  "learnerAccessibleFileList": ["contracts/*"]
+  "learnerAccessibleFileList": [
+    "contracts/*"
+  ]
 }
