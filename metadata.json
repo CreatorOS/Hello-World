@@ -3,6 +3,7 @@
   "defaultFile": "contracts/HelloWorld.sol",
   "environment": "solidity",
   "setupCommands": [
+    "npm i",
     "npx hardhat compile"
   ],
   "compileCommand": "npx hardhat compile",
