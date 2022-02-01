@@ -26,5 +26,4 @@ contract HelloWorld {
 
 When you declare a variable as public in solidity, a getter method with the same name as variable is automatically generated for you.
 
-The test script uses that test if the variable is set to `Hello World!` or not.
-Click on `Run` to see the result.
+And that is all, you just wrote a basic Solidity contract!
