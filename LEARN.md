@@ -1,6 +1,6 @@
 # Hello world
 
-This quest is based on the examples seen in the popular repository [solidity-by-example.org](solidity-by-example.org)
+This quest is based on the examples seen in the popular repository [solidity-by-example.org](https://solidity-by-example.org)
 
 In this quest we're going to write code in simple increments and understand the basics of the Solidity programming language and its syntax.
 
